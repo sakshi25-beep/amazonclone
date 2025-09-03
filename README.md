@@ -18,8 +18,4 @@ A front-end clone of Amazon’s UI built with **HTML** and **CSS**. Focused on l
 
 ---
 
-## 🔗 Live Demo
-👉 [Amazon Clone](https://sakshi25-beep.github.io/amazonclone/)
-
----
 
