@@ -1,6 +1,8 @@
-# amazonclone# 🛒 Amazon Clone
+# 🛒 Amazon Clone
 
 A front-end clone of Amazon’s UI built with **HTML** and **CSS**. Focused on layout, responsive design, and clean styling.
+
+---
 
 ## 🚀 Features
 - Amazon-like homepage & product listing layout
@@ -8,11 +10,16 @@ A front-end clone of Amazon’s UI built with **HTML** and **CSS**. Focused on l
 - Navigation bar with search UI
 - Hover effects and reusable CSS components
 
+---
+
 ## 🛠️ Tech Stack
-- HTML5
-- CSS3
+- **HTML5**
+- **CSS3**
 
+---
 
-## 📂 Getting Started
-```bash
+## 🔗 Live Demo
+👉 [Amazon Clone](https://sakshi25-beep.github.io/amazonclone/)
+
+---
 
